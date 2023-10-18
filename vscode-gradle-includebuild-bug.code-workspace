@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "package-1",
+      "path": "package-1"
+    },
+    {
+      "name": "package-2",
+      "path": "package-2"
+    }
+  ],
+  "settings": {
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic"
+  }
+}
